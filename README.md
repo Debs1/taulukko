@@ -1,0 +1,1 @@
+Tämä ohjelma käsittelee kokonaislukuja.
